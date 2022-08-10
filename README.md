@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+OUTPUT
+
+
+![weather_app1](https://user-images.githubusercontent.com/108629629/184016022-eea9855f-ebb2-473a-82e5-c8eec25a5aad.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
